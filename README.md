@@ -21,7 +21,7 @@ This is a Simple Calculator App for Android. Following functionalities are added
 
 ### Sample No. 1
 
-<img src="https://github.com/alijawad1511/Simple_Calculator_Android/blob/master/images/App%20Design.jpg" width="800" />
+<img src="https://github.com/alijawad1511/Simple_Calculator_Android/blob/master/images/App%20Design.jpg" width="250" />
 
 ## 📞 Contact me at:
 
